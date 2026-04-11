@@ -4,7 +4,7 @@ This repository is a starter template for building Minecraft plugins using the P
 
 ## Requirements
 
-- Java 17+
+- Java 21
 
 ## Build
 
