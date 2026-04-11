@@ -32,3 +32,8 @@ processResources {
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
 }
+
+tasks.register('copyDependencies', Copy) {
+    from configurations.compileClasspath
+    into layout.buildDirectory.dir('libs')
+}
