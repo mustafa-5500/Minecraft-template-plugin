@@ -3,8 +3,7 @@
 This repository is a starter template for building Minecraft plugins using the Paper API and Gradle.
 
 ## Requirements
-
-- Java 21
+- Java 21+
 
 ## Build
 
