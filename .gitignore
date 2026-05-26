@@ -4,5 +4,6 @@ build/
 .idea/
 .vscode/
 run/
+bin/
 *.iml
 *.jar
